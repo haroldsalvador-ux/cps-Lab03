@@ -4,5 +4,7 @@ public class Application {
 
     //  to do a  nhh
     // to do by gabriel se
-
+    public static void main(String[] args) {
+        int jaime = 10;
+    }
 }
